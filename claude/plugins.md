@@ -11,7 +11,16 @@
   claude plugins add obra/superpowers --scope user
   ```
 
-### 2. andrej-karpathy-skills
+### 2. ralph-loop
+
+- **소스**: ralph-loop (claude-plugins-official)
+- **스코프**: user
+- **설치 커맨드**:
+  ```bash
+  claude plugins add ralph-loop --scope user
+  ```
+
+### 3. andrej-karpathy-skills
 
 - **소스**: forrestchang/andrej-karpathy-skills
 - **스코프**: user
